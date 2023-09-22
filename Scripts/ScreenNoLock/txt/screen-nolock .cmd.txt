@@ -1,0 +1,1 @@
+powershell.exe -windowstyle hidden -file C:\Users\[USER]\apps\move.ps1

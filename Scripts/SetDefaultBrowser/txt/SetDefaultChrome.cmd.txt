@@ -1,0 +1,1 @@
+"C:\Users\[USER]\apps\SetDefaultBrowser.exe" chrome

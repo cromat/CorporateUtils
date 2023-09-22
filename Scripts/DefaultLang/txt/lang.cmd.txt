@@ -1,0 +1,1 @@
+powershell.exe -windowstyle hidden -file "C:\Users\[USER]\apps\lang.ps1"
