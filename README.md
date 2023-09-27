@@ -69,4 +69,3 @@ To setup, [ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) needs to be d
 - Ofter, internal corporate pages (mostly developer services etc.) have not updated SSL certs and you will be unable to reach them. In most cases, opening them in incognito/private mode will work.
 
 - If software installations are disabled, there are some workarounds like downloading preinstalled binary/zip files, placing them manually on local machine and set up Path (User) environment variables to point to them (e.g. case for NodeJS)
-- 
