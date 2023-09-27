@@ -66,4 +66,7 @@ To setup, [ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) needs to be d
 
 - If there are any other apps that you want to run on startup, you can add their shortcut to Startup folder as well. For example, search for Outlook in start menu, right click and choose "Open file location" and copy OUTLOOK.exe shortcut to Startup folder and that will make Outlook run on Windows startup/
 
-- Ofter, internal corporate pages (mostly developer services etc.) have not updated SSL certs and you will be unable to reach them. In most cases, opening them in incognito/private mode will work. 
+- Ofter, internal corporate pages (mostly developer services etc.) have not updated SSL certs and you will be unable to reach them. In most cases, opening them in incognito/private mode will work.
+
+- If software installations are disabled, there are some workarounds like downloading preinstalled binary/zip files, placing them manually on local machine and set up Path (User) environment variables to point to them (e.g. case for NodeJS)
+- 
