@@ -59,6 +59,9 @@ Tool for video recording.
 
 To setup, [ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) needs to be downloaded and added from the app.
 
+#### DBeaver
+
+Developer database tool. There is portable (zip) version [here](https://github.com/portapps/dbeaver-portable/releases).
 
 ## Other
 
