@@ -63,6 +63,10 @@ To setup, [ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) needs to be d
 
 Developer database tool. There is portable (zip) version [here](https://github.com/portapps/dbeaver-portable/releases).
 
+#### Otter (WebKit browser)
+
+WebKit based web browser. Good for testing Mac/iOS/Safari related web stuff.
+
 ## Other
 
 - If you are using or need to use Cisco AnyConnect VPN, go to preferences and check "Enable automatic certificate selection" so that VPN connecting works automatically and faster.
