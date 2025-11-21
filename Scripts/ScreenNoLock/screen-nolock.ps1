@@ -1,3 +1,4 @@
+bash
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -Name ConsoleUtils -Namespace WPIA -MemberDefinition @'
    [DllImport("Kernel32.dll")]
@@ -33,4 +34,5 @@ while ($true)
   
   # Sleep
   Start-Sleep -Seconds $sleep	
+
 }
